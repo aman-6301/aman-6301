@@ -42,10 +42,14 @@
   - Designed an elegant and responsive UI using **React.js** & **Tailwind CSS**  
   - Backend developed with **Express.js** & **MongoDB**, deployed on **Render**
 
-- 🔹 [**Tetris Block Game**](https://aman-6301.github.io/Block-Game/)  
-  *Classic browser-based Tetris built with HTML, CSS, and JavaScript.*  
-  - Developed **collision detection**, scoring logic, and increasing difficulty levels  
-  - Crafted a smooth, responsive game interface optimized for multiple screen sizes  
+- 🔹 [**AppDost Clone**](https://task-appdostclone.vercel.app/)  
+  *A responsive marketing website clone built with modern frontend technologies.*  
+  - Developed using **React.js**, **Tailwind CSS**, and **Vite** for optimized performance
+   and fast HMR-based development  
+  - Built a **reusable component library** to maintain design consistency and accelerate UI
+    development  
+  - Focused on **clean, responsive layouts** and **modern design principles** to closely
+    replicate the original AppDost interface   
 
 - 🔹 [**Weather App**](https://aman-6301.github.io/Weather-App/)  
   *Dynamic web app fetching real-time weather data using the OpenWeather API.*  
