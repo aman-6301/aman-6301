@@ -51,11 +51,6 @@
   - Focused on **clean, responsive layouts** and **modern design principles** to closely
     replicate the original AppDost interface   
 
-- 🔹 [**Weather App**](https://aman-6301.github.io/Weather-App/)  
-  *Dynamic web app fetching real-time weather data using the OpenWeather API.*  
-  - Showcases live temperature, humidity, and wind data  
-  - Features search functionality with **input validation & error handling**  
-  - Built with a **mobile-first responsive layout**
 
 ---
 
