@@ -75,41 +75,34 @@ Full Stack Developer | Java Backend Developer | Computer Science Undergraduate
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 📄 AI Resume Analyzer
+### 📄 AI Resume Analyzer
+**Tech Stack:** Spring Boot • React • MySQL • JWT Authentication • Google OAuth2 • Google Gemini AI • Brevo (Email) • Adzuna API
 
-### Tech Stack
-
-Spring Boot • React • JWT Authentication • REST APIs • MySQL
-
-### Features
-
+**Features:**
+- AI-powered resume analysis and evaluation using Google Gemini
 - Resume upload and parsing
-- AI-powered resume analysis
-- Secure JWT Authentication
-- User dashboard
-- Role-based authentication
-- Responsive UI
-- RESTful Backend Architecture
+- JWT-based authentication with Google Sign-In (OAuth2)
+- Email verification and password reset via Brevo
+- Job suggestions based on resume content using the Adzuna API
+- React frontend built and served as static files by the Spring Boot backend
+- RESTful backend architecture with MySQL database
+
 
 ---
 
-## 🚌 Bus Booking Management System
+### 🚌 Safar – Bus Reservation Management Portal
+**Tech Stack:** Java • Spring Boot • Spring Data JPA • Hibernate • MySQL • HTML • CSS • JavaScript
 
-### Tech Stack
-
-Spring Boot • React • MySQL • JWT • REST APIs
-
-### Features
-
-- User Authentication
-- Bus Search
-- Seat Availability
-- Online Booking
-- Booking History
-- Admin Dashboard
-- Route & Bus Management
+**Features:**
+- User and Admin authentication with session-based (UUID) validation
+- Bus search by source and destination
+- Seat availability check and online reservation
+- Booking history for users
+- Admin dashboard to manage routes, buses, and reservations
+- Feedback module for users
+- REST API documented with Swagger UI
 
 ---
 
